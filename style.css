@@ -1,6 +1,6 @@
 body {
   background-position: center;
-  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAKTeRPO9vrvNgyIlL0096z5W4JmQ8XuYW4g&usqp=CAU);
+  background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAKTeRPO9vrvNgyIlL0096z5W4JmQ8XuYW4g&usqp=CAU');
   color: white;
   background-repeat: no-repeat;
   background-attachment: fixed;
